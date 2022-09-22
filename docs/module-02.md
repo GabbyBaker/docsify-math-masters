@@ -67,4 +67,4 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 ### MONDAY: Applying to Algebra
 
 **Complete this activity:** [Number Line Distance](https://schoolyourself.org/learn/algebra/distance-1d)
-
+**Now** work on the addition and subtraction equation problems that you were given a few weeks ago.
