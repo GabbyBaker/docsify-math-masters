@@ -1,7 +1,5 @@
 ![](images/MM-HeroImage.PNG ':class=banner-image')
-
-
-
+=======
 It is so exciting to learn about God’s creation in mathematics! Our specific purpose is preparing for the math section of the high school equivalency exam **HiSet**. The goal of these tutoring sessions is to prepare you to pass this exam.
 
 
