@@ -1,4 +1,4 @@
-![](images/Math Masters Hero Image.PNG ':class=banner-image')
+![](images/MM-HeroImage.PNG ':class=banner-image')
 
 
 
