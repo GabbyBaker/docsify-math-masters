@@ -1,24 +1,70 @@
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
-# What does a holistic user experience design process look like?
+# What does addition and subtraction look like in algebra, geometry, and statistics?
 
-## Summaries and Questions  
-[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
+## Learning Goals
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+### Addition 
 
-## CPT-363 UX Design Process/Toolkit
-![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
+* Addition of Positive Integers
+* Addition of Negative Integers
+* Addition of Positive and Negative Integers
+* Addition Equations Equaling Positive Integers
+* Addition Equations Equaling Positive and Negative Integers
 
-## Downloads
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
+### Subtraction
 
-## Assignments
-[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
+* Subtraction of Positive and Negative Integers
+* Subtraction Equations Equaling Positive Integers
+* Subtraction Equations Equaling Negative Integers
 
-## Quick Quiz
-<iframe src="https://h5p.org/h5p/embed/214115" width="728" height="278" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ 
 
-## Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
+## Introduction
+
+> As you watch the following videos, <u>take notes</u>. Whatever examples the teacher gives, pause the video, and copy them down in your own notebook. Work out the problem with him or her so that you can go through the process as well. Remember: learning is active!
+
+
+
+### THURSDAY: On a Number Line
+
+#### Complete these activities:
+
+* [Addition](https://schoolyourself.org/learn/algebra/addition)
+* [Subtraction](https://schoolyourself.org/learn/algebra/subtraction)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IgNWnYgNujg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+### FRIDAY: Now in Pictures!
+
+The first six videos of the YouTube series, "Visual Algebra" lay a strong foundation for understanding how numbers relate to each other. Even though it repeats the explanations above, it uses a different illustration. I encourage you to watch to reinforce the concept.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/COtmrCPw3TA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HJpJGzg8INA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pFpxud0bCUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TLvEUzSaoOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+### SUNDAY: Adding and Subtracting Negative Numbers
+
+#### Complete these activities:
+
+* [Adding Negatives](https://schoolyourself.org/learn/algebra/adding-negatives)
+* [Subtracting Negatives](https://schoolyourself.org/learn/algebra/subtracting-negatives)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EsYM0wEBiNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6XaUsg1wTgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### MONDAY: Applying to Algebra
+
+**Complete this activity:** [Number Line Distance](https://schoolyourself.org/learn/algebra/distance-1d)
+
