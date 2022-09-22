@@ -2,6 +2,6 @@
 - [Week 2 (Sep 21-27)](module-02)
 - [Week 3 (Sep 28 - Oct 5)](module-03)
 - **Other Links**
-- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](resources\Math Masters Accelerated Syllabus (Abby).pdf)
-- [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Test Topics](https://canvas.sfu.ca/courses/44038/assignments )
-- [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Understanding Your Scores](https://canvas.sfu.ca/courses/44038/quizzes)
+- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](resources/MM-Acc-Syllabus-Abby.pdf)
+- [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Test Topics](resources/math-test-topics.pdf)
+- [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Understanding Your Scores](resources/Understanding-HiSet-Scores.pdf)
