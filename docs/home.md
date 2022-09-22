@@ -1,4 +1,4 @@
-![](C:\Users\Gabby.BRAINWAVE\Documents\Files for Moodle\Math Masters Accelerated\Math Masters Hero Image.PNG)
+![](images/Math Masters Hero Image.PNG ':class=banner-image')
 
 
 
