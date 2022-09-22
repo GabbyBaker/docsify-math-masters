@@ -8,9 +8,14 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Addition of Positive Integers <br />Addition of Negative Integers <br />Addition of Positive and Negative Integers <br />Addition of Equations Equaling Positive Integers <br />Addition of Equations Equaling Positive and Negative Integers | Subtraction of Positive and Negative Integers <br />Subtraction Equations Equaling Positive Integers <br />Subtraction Equations Equaling Negative Integers |
 
+## Go to:
+
+* [Review 1](#02-review1)
+* [Review 2](#02-review2)
+* [Review 3](#02-review3)
+* [Review 4](#02-review4)
 
 
-[TOC]
 
 ------
 
@@ -20,7 +25,7 @@
 
 
 
-### THURSDAY: On a Number Line
+### THURSDAY: On a Number Line {#02-review1}
 
 #### Complete these activities:
 
@@ -31,7 +36,7 @@
 
 
 
-### FRIDAY: Now in Pictures!
+### FRIDAY: Now in Pictures! {#02-review2}
 
 The first six videos of the YouTube series, "Visual Algebra" lay a strong foundation for understanding how numbers relate to each other. Even though it repeats the explanations above, it uses a different illustration. I encourage you to watch to reinforce the concept.
 
@@ -45,7 +50,7 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 
 
 
-### SUNDAY: Adding and Subtracting Negative Numbers
+### SUNDAY: Adding and Subtracting Negative Numbers {#02-review3}
 
 #### Complete these activities:
 
@@ -58,7 +63,7 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6XaUsg1wTgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### MONDAY: Applying to Algebra
+### MONDAY: Applying to Algebra {#02-review4}
 
 **Complete this activity:** [Number Line Distance](https://schoolyourself.org/learn/algebra/distance-1d)
 **Now** work on the addition and subtraction equation worksheet that you were given a few weeks ago. Bring that with on to Wednesday's session.
