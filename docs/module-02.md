@@ -63,7 +63,37 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6XaUsg1wTgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### MONDAY: Applying to Algebra {#02-review4}
+### MONDAY: Adding and Subtracting Like and Unlike Terms in Equations {#02-review4}
 
-**Complete this activity:** [Number Line Distance](https://schoolyourself.org/learn/algebra/distance-1d)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WUwBR1Zkfzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r95Yh7dMVVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HTTcmbtqx5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Collect the like expressions, then write the final answer.
+
+1. 4 apples plus 6 apples plus 9 pears
+
+2. 10 oranges plus 2 mangoes plus 2 oranges
+
+3. 3 SUVs plus 7 dirt bikes plus 5 SUVs
+   $$
+   3+7x+5
+   $$
+
+   $$
+   4x+13+10x
+   $$
+
+   $$
+   4a^2+13a+10a^2
+   $$
+
+   $$
+   	{3b}^2+2b^2+4b
+   $$
+
+   
+
 **Now** work on the addition and subtraction equation worksheet that you were given a few weeks ago. Bring that with on to Wednesday's session.
