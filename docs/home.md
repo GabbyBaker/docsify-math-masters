@@ -1,4 +1,4 @@
-![Hero Image](docs/images/Math Masters Hero Image.PNG ':class=banner-image')
+![Hero Image](docs/images/Math Masters Hero Image.PNG)
 
 
 
