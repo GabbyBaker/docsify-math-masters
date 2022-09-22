@@ -1,24 +1,18 @@
-![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+![Algebra](images/antoine-dautry-05A-kdOH6Hw-unsplash.jpg ':class=banner-image')
 
 # What does addition and subtraction look like in algebra, geometry, and statistics?
 
 ## Learning Goals
 
-### Addition 
+| **Addition**                                                 | **Subtraction**                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Addition of Positive Integers <br />Addition of Negative Integers <br />Addition of Positive and Negative Integers <br />Addition of Equations Equaling Positive Integers <br />Addition of Equations Equaling Positive and Negative Integers | Subtraction of Positive and Negative Integers <br />Subtraction Equations Equaling Positive Integers <br />Subtraction Equations Equaling Negative Integers |
 
-* Addition of Positive Integers
-* Addition of Negative Integers
-* Addition of Positive and Negative Integers
-* Addition Equations Equaling Positive Integers
-* Addition Equations Equaling Positive and Negative Integers
 
-### Subtraction
 
-* Subtraction of Positive and Negative Integers
-* Subtraction Equations Equaling Positive Integers
-* Subtraction Equations Equaling Negative Integers
+[TOC]
 
- 
+------
 
 ## Introduction
 
@@ -67,4 +61,4 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 ### MONDAY: Applying to Algebra
 
 **Complete this activity:** [Number Line Distance](https://schoolyourself.org/learn/algebra/distance-1d)
-**Now** work on the addition and subtraction equation problems that you were given a few weeks ago.
+**Now** work on the addition and subtraction equation worksheet that you were given a few weeks ago. Bring that with on to Wednesday's session.
