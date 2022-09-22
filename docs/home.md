@@ -16,6 +16,8 @@ It is so exciting to learn about God’s creation in mathematics! Our specific p
 > *“If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 6 But let him ask in faith, with no doubting…”* 
 >
 > *James 1:5-6*
+>
+> **All knowledge, even mathematical knowledge, is the gracious revelation of God. Facts are only interpreted correctly when done so from a Biblical Christian worldview. Pray and ask for wisdom.**
 
 # Focus for this Week
 ## Adding and Subtracting: From Arithmetic to Algebra

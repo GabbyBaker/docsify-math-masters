@@ -2,6 +2,20 @@
 
 # What does addition and subtraction look like in algebra, geometry, and statistics?
 
+> *Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.*
+>
+> Revelation 14:7
+>
+> ------
+>
+> "Mathematics also has a moral value in daily life. One who has an understanding of mathematics, has the skills necessary to function responsibly in many vocations, and he may carry out and use that understanding for the benefit of his fellow men, which it is his Christian responsibility to do. By so doing, he may glorify the God who gave him that understanding.
+>
+> "The secularist does not do this. He glorifies man with mathematics. He sees reasoning as a product of the human mind, and glorifies man for what he sees.”
+>
+> John Van Der Brink
+
+
+
 ## Learning Goals
 
 | **Addition**                                                 | **Subtraction**                                              |
@@ -71,29 +85,6 @@ The first six videos of the YouTube series, "Visual Algebra" lay a strong founda
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HTTcmbtqx5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Collect the like expressions, then write the final answer.
 
-1. 4 apples plus 6 apples plus 9 pears
 
-2. 10 oranges plus 2 mangoes plus 2 oranges
-
-3. 3 SUVs plus 7 dirt bikes plus 5 SUVs
-   $$
-   3+7x+5
-   $$
-
-   $$
-   4x+13+10x
-   $$
-
-   $$
-   4a^2+13a+10a^2
-   $$
-
-   $$
-   	{3b}^2+2b^2+4b
-   $$
-
-   
-
-**Now** work on the addition and subtraction equation worksheet that you were given a few weeks ago. Bring that with on to Wednesday's session.
+**Now work on the addition and subtraction equation worksheet that you were given a few weeks ago. Bring that with on to Wednesday's session.**
